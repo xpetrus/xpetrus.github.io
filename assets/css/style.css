@@ -1183,6 +1183,16 @@ li {
     margin-top: 30px;
 }
 
+.fa-envelope-square:hover {
+    color: darkcyan;
+}
+.linkicon:hover{
+    color: darkcyan;
+}
+.fa-github-square:hover {
+    color: darkcyan;
+}
+
 /*-----------------------------------------------------------------*/
 /*                      RESPONSIVE                                  */
 /*-----------------------------------------------------------------*/
