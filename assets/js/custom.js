@@ -60,6 +60,7 @@ $(function(){
     =========================================================================*/
     $("#welcome").backstretch([
         "assets/images/sky.jpg",
+        "assets/images/tree.jpeg",
         "assets/images/ice.jpg",
         // "assets/images/your_pic.jpg" 
     ], {duration: 8000, fade: 800});
